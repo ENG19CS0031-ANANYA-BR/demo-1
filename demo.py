@@ -1,3 +1,4 @@
+print("hello")
 try:
     score=(float(input("enter the score")))
     if score>1.0 or score<0.0:
